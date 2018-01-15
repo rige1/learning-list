@@ -15,8 +15,8 @@
 
 ### DDD и Event Sourcing
 * Эрик Эванс "Предметно-ориентированое проектирование"
-* [Axon Reference Guide] (https://www.gitbook.com/download/pdf/book/axonframework/referenceguide/v/3.1)
-* [Статья на сайте Мартина Фаулера] (https://martinfowler.com/eaaDev/EventSourcing.html)
+* [Axon Reference Guide](https://www.gitbook.com/download/pdf/book/axonframework/referenceguide/v/3.1)
+* [Статья на сайте Мартина Фаулера](https://martinfowler.com/eaaDev/EventSourcing.html)
 
 ### DevOps
 * [Администрирование Linux от Mail.ru](https://www.youtube.com/watch?v=CQ4YpkeG3mQ&list=PLrCZzMib1e9rx3HmaLQfLYb9ociIvYOY1)
