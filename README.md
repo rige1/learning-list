@@ -17,6 +17,7 @@
 * Эрик Эванс "Предметно-ориентированое проектирование"
 * [Axon Reference Guide](https://www.gitbook.com/download/pdf/book/axonframework/referenceguide/v/3.1)
 * [Статья на сайте Мартина Фаулера](https://martinfowler.com/eaaDev/EventSourcing.html)
+* [Введение в CQRS и Event Sourcing](https://www.youtube.com/watch?v=8yQtOgdFQi4&t=1752s)
 
 ### DevOps
 * [Администрирование Linux от Mail.ru](https://www.youtube.com/watch?v=CQ4YpkeG3mQ&list=PLrCZzMib1e9rx3HmaLQfLYb9ociIvYOY1)
